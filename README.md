@@ -1,0 +1,7 @@
+# healthie
+This is a software protocol to help users who are on a regular work routine to live a healthier life. By monitoring the bio-medical features as well as interaction with the hardware, it could learn the user behavior and make suggestion or assistant accordingly.
+
+## What is Healthie?
+It is an exciting project aiming to build the next generation of human-machine interaction. While all the popular technologies nowadays such as VR, AR and AI trying to help human beings to reach further out to something we could never imagine, we are thinking about how to build a ladder for our users, for ourselves, to reach inside, to reach backwards to our body. We are aiming to make the relation between human beings and machines healthier, smarter and comfortable. And we also take deep consideration of the data privacy and integrity, all the data processing the learning so far are all based on local machines, we won't collect any private data from our user. The processing and machine learning methods in Healthie are super light-weight and flexible so that it could run continuous on the background quietly while making big effort to assist you through your daily work and entertaining time.
+
+*This repo is not open-source yet, feel free to check up the roadshow slides and demos, and contact me at tomishere7@gmail.com for more information*
